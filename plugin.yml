@@ -1,0 +1,5 @@
+name: TagPerks
+main: tagperks\TagPerks
+version: 1.0
+author: wXav
+api: 3.0.0
